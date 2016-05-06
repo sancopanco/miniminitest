@@ -1,0 +1,2 @@
+require_relative 'miniminitest'
+Miniminitest.autorun
